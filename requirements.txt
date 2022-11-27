@@ -22,6 +22,7 @@ Jinja2>=3.0
 MarkupSafe>=0.23
 Werkzeug>=2.2.2
 wheel>=0.3.1
+gunicorn>20.0.0
 # protobuf<=3.20.1  # https://github.com/ultralytics/yolov5/issues/8012
 
 # Logging ---------------------------------------------------------------------
